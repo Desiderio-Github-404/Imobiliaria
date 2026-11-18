@@ -5,7 +5,7 @@ const properties = [
   {
     id: 1, title: "Moradia contemporânea T4", type: "Moradia", purpose: "Venda",
     location: "Talatona, Luanda", price: 185000000, beds: 4, baths: 5, area: 320,
-    badge: "Destaque", image: "https://images.unsplash.com/photo-160059 Id?auto=format&fit=crop&w=1200&q=85",
+    badge: "Destaque", image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=85",
     description: "Uma moradia contemporânea com espaços amplos, acabamentos de qualidade, excelente iluminação natural e uma zona exterior ideal para momentos em família."
   },
   {
